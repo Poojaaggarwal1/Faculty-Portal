@@ -10,7 +10,7 @@
 - Installation Prerequisites
 	-	PHP 8.0 or above, PostgreSQL
 - Clone the repository
-	-	$ git clone https://github.com/pawarhrishi21/Faculty-Leave-Portal
+	-	$ git clone https://github.com/Poojaaggarwal1/Faculty-Portal.git
 - Execute the Stored procedures and triggers in the sql directory.
 - Replace the username and password for postgres in the header.php and login-header.php in the static directory
 - Run the server at port 8080
